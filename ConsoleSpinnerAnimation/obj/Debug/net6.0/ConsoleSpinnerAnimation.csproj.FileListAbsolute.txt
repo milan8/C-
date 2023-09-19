@@ -1,0 +1,14 @@
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.AssemblyInfoInputs.cache
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.AssemblyInfo.cs
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.csproj.CoreCompileInputs.cache
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\bin\Debug\net6.0\ConsoleSpinnerAnimation.exe
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\bin\Debug\net6.0\ConsoleSpinnerAnimation.deps.json
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\bin\Debug\net6.0\ConsoleSpinnerAnimation.runtimeconfig.json
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\bin\Debug\net6.0\ConsoleSpinnerAnimation.dll
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\bin\Debug\net6.0\ConsoleSpinnerAnimation.pdb
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.dll
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\refint\ConsoleSpinnerAnimation.dll
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.pdb
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ConsoleSpinnerAnimation.genruntimeconfig.cache
+C:\Users\v-milaan\source\repos\ConsoleSpinnerAnimation\ConsoleSpinnerAnimation\obj\Debug\net6.0\ref\ConsoleSpinnerAnimation.dll
